@@ -1,0 +1,97 @@
+# Task 7: Identify and Remove Suspicious Browser Extensions
+
+## 🎯 Objective
+Learn how to spot, analyze, and remove potentially harmful or unnecessary browser extensions to improve privacy, performance, and security.
+
+## 🛠 Tools Used
+- Web Browser: Firefox (Kali Linux)
+
+---
+
+## 🔍 Step-by-Step Process
+
+### **1. Open Browser’s Extension/Add-ons Manager**
+- Firefox → Menu (☰) → **Add-ons and Themes**
+- Shortcut: `Ctrl + Shift + A`
+
+---
+
+### **2. Review All Installed Extensions**
+Each extension was checked based on:
+- Developer credibility  
+- Number of installs  
+- Last update date  
+- Permissions requested  
+- Whether it's actually needed or not  
+
+---
+
+### **3. Check Permissions & Reviews**
+For every extension, the following permissions were verified:
+- Access to browsing data  
+- Access to all websites  
+- Ability to run in private windows  
+- Ability to modify browser settings  
+
+Extensions with excessive permissions (compared to their purpose) were marked **suspicious**.
+
+---
+
+### **4. Identify Unused or Suspicious Extensions**
+Criteria used to identify risky extensions:
+- No well-known developer  
+- Outdated (no updates for long time)  
+- Irrelevant functionality  
+- Too many unnecessary permissions  
+
+---
+
+### **5. Remove Suspicious or Unnecessary Extensions**
+Steps taken:
+- First **Disabled** suspicious extensions  
+- Browser restarted to check impact  
+- Confirmed changes in performance  
+- Then **Removed** unnecessary / risky extensions
+
+---
+
+### **6. Restart Browser & Check Performance**
+After removal:
+- Browser speed improved  
+- No unexpected pop-ups  
+- System resources slightly reduced  
+- No suspicious redirect behavior observed  
+
+---
+
+### **7. Research: How Malicious Extensions Harm Users**
+Malicious browser extensions can:
+- Steal browsing data  
+- Track online activity  
+- Inject ads  
+- Redirect websites  
+- Install malware  
+- Capture login credentials  
+
+---
+
+### **8. Documentation of Actions Taken**
+- All installed extensions were reviewed manually  
+- Permissions examined  
+- Unused & suspicious items were removed  
+- Browser stability verified after restart  
+- Security risks noted and documented  
+
+---
+
+## 📄 Deliverable
+**A clean and secure browser environment after removing suspicious extensions.**
+
+No harmful extensions detected during review.  
+Only legitimate and required extensions were kept.
+
+---
+
+## 🏁 Final Conclusion
+Regular auditing of browser extensions is essential.  
+Unverified or outdated extensions pose real security risks and must be removed immediately to maintain strong cyber hygiene.
